@@ -1,0 +1,11 @@
+bin/
+obj/
+
+.nba_player_stats_2026.csv
+
+*.db
+*.db-wal
+*.db-shm
+
+.vscode/
+.DS_Store
